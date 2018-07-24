@@ -7,6 +7,9 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 - [ ] **Deep contextualized word representations**, Peters et al.
 [`Paper`](https://arxiv.org/abs/1802.05365)
 
+- [X] **Learned in Translation: Contextualized Word Vectors**, McCann et al.
+[`Paper`](https://arxiv.org/abs/1708.00107)
+
 - [X] **A Compressed Sensing View of Unsupervised Text Embeddings, Bag-Of-n-Grams, and LSTMs**, Arora et al.
 [`Paper`](https://openreview.net/pdf?id=B1e5ef-C-)
 
