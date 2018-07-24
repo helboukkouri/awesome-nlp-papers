@@ -21,7 +21,7 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 [`Paper`](https://openreview.net/pdf?id=SyK00v5xx)
 
 - [X] **Bag of Tricks for Efficient Text Classification**, Joulin et al.
-[`Paper`](https://arxiv.org/pdf/1607.01759.pdf)
+[`Paper`](https://arxiv.org/abs/1607.01759)
 
 - [X] **Enriching Word Vectors with Subword Information**, Bojanowski et al.
 [`Paper`](https://arxiv.org/abs/1607.04606)
@@ -38,7 +38,7 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 [`Paper`](https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf)
 
 - [X] **word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method**, Goldberg and Levy.
-[`Paper`](https://arxiv.org/pdf/1402.3722.pdf)
+[`Paper`](https://arxiv.org/abs/1402.3722)
 
 ### 2013:
 
@@ -49,7 +49,7 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 [`Paper`](https://www.aclweb.org/anthology/N13-1090)
 
 - [X] **Distributed Representations of Words and Phrases and their Compositionality**, Mikolov et al.
-[`Paper`](https://arxiv.org/pdf/1310.4546.pdf)
+[`Paper`](https://arxiv.org/abs/1310.4546)
 
 ### 2008:
 
