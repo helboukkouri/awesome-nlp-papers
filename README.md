@@ -4,11 +4,18 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 
 ### 2018
 
-- [ ] **Deep contextualized word representations**, Peters et al.
+- [ ] **Universal Sentence Encoder**, Cer et al.
+[`Paper`](https://arxiv.org/abs/1803.11175)
+
+- [ ] **Deep Contextualized Word Representations**, Peters et al.
 [`Paper`](https://arxiv.org/abs/1802.05365)
 
 - [X] **Learned in Translation: Contextualized Word Vectors**, McCann et al.
 [`Paper`](https://arxiv.org/abs/1708.00107)
+
+- [X] **Concatenated p-mean Word Embeddings as Universal Cross-Lingual Sentence Representations**, Rücklé et al.
+[`paper`](https://arxiv.org/abs/1803.01400)
+
 
 - [X] **A Compressed Sensing View of Unsupervised Text Embeddings, Bag-Of-n-Grams, and LSTMs**, Arora et al.
 [`Paper`](https://openreview.net/pdf?id=B1e5ef-C-)
