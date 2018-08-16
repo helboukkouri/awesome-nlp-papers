@@ -7,7 +7,7 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 - [ ] **Universal Sentence Encoder**, Cer et al.
 [`Paper`](https://arxiv.org/abs/1803.11175)
 
-- [ ] **Deep Contextualized Word Representations**, Peters et al.
+- [X] **Deep Contextualized Word Representations**, Peters et al.
 [`Paper`](https://arxiv.org/abs/1802.05365)
 
 - [X] **Learned in Translation: Contextualized Word Vectors**, McCann et al.
@@ -24,6 +24,9 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 
 - [X] **Skip-Gram – Zipf + Uniform = Vector Additivity**, Gittens et al.
 [`Paper`](http://www.aclweb.org/anthology/P17-1007)
+
+- [X] **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions**, Strubell et al.
+[`Paper`](https://arxiv.org/abs/1702.02098)
 
 ### 2016:
 
