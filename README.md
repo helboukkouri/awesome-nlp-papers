@@ -25,13 +25,16 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 - [X] **Skip-Gram – Zipf + Uniform = Vector Additivity**, Gittens et al.
 [`Paper`](http://www.aclweb.org/anthology/P17-1007)
 
+- [X] **A Simple but Tough-to-beat Baseline for Sentence Embeddings**, Arora et al.
+[`Paper`](https://openreview.net/pdf?id=SyK00v5xx)
+
 - [X] **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions**, Strubell et al.
 [`Paper`](https://arxiv.org/abs/1702.02098)
 
 ### 2016:
 
-- [X] **A Simple but Tough-to-beat Baseline for Sentence Embeddings**, Arora et al.
-[`Paper`](https://openreview.net/pdf?id=SyK00v5xx)
+- [X] **Towards Universal Paraphrastic Sentence Embeddings**, Wieting et al.
+[`Paper`](https://arxiv.org/abs/1511.08198)
 
 - [X] **Bag of Tricks for Efficient Text Classification**, Joulin et al.
 [`Paper`](https://arxiv.org/abs/1607.01759)
