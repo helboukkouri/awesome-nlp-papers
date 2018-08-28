@@ -45,6 +45,11 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 - [X] **Enriching Word Vectors with Subword Information**, Bojanowski et al.
 [`Paper`](https://arxiv.org/abs/1607.04606)
 
+### 2015:
+
+- [ ] **Semi-supervised Sequence Learning**, Dai et al.
+[`Paper`](https://arxiv.org/abs/1511.01432)
+
 ### 2014:
 
 - [X] **GloVe: Global Vectors for Word Representation**, Pennington et al.
