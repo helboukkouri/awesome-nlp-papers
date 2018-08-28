@@ -4,6 +4,9 @@ This is a collection/reading-list of awesome Natural Language Processing papers 
 
 ### 2018
 
+- [ ] **Evaluation of sentence embeddings in downstream and linguistic probing tasks**, Perone et al.
+[`Paper`](https://arxiv.org/abs/1806.06259)
+
 - [ ] **Universal Sentence Encoder**, Cer et al.
 [`Paper`](https://arxiv.org/abs/1803.11175)
 
